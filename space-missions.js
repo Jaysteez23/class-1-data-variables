@@ -1,5 +1,5 @@
 // Declare and assign the variables below
-let shuttlename = 'Determiation';
+let shuttlename = 'Determination';
 let shuttlespeedmph = 17500;
 let distanceToMarskm = 225000000;
 let distanceToMoonkm = 3384400;
